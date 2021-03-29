@@ -12,5 +12,7 @@
 - [ ] [A Pokemon Go Bot](https://github.com/AphroMad/PoGo-Adb "PoGo Bot") Finir le projet 
 - [ ] [Magic Button](https://github.com/AphroMad/Magic-Button "Magic Button") Finir le projet 
 - [ ] [Break the Egg](https://github.com/AphroMad/Break-the-Egg "Break the Egg") Finir le projet 
+- [ ] [Tuner](https://github.com/AphroMad/Tuner "Click me") Finir le projet 
+- [ ] [24 Ads](https://github.com/AphroMad/24Ads "Click me") Finir le projet 
 
 
