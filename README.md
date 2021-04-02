@@ -5,7 +5,7 @@
 ## My projects : 
 - [X] [BlackJack Count](https://github.com/AphroMad/Blackjack_count "BlackJack") 
 - [ ] [Preparation Ebay products](https://github.com/AphroMad/Prepa_photo_produit "Preparation Ebay products") Revoir le code et mettre en anglais 
-- [ ] [Change picture format](https://github.com/AphroMad/JPG-to-PNG "Format") Revoir le code et mettre en anglais 
+- [X] [Change picture format](https://github.com/AphroMad/JPG-to-PNG "Format")  
 - [ ] [Crop Video](https://github.com/AphroMad/Croping_video "CropVideo") Revoir le code et mettre en anglais 
 - [ ] [Note conversion](https://github.com/AphroMad/Piano-Guitar-Ukulele-Conversion "Note conversion ") Revoir le code et mettre en anglais 
 - [X] [Crop Instagram ScreenShot](https://github.com/AphroMad/Crop-Instagram "Crop Instagram ScreenShot")
