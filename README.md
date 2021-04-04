@@ -16,7 +16,7 @@
 - [ ] [24 Ads](https://github.com/AphroMad/24Ads "Click me") Finir le projet 
 
 
-| Project       | Status        | %   | 
-|:-------------:|:-------------:|:---:|       
-| [BlackJack Count](https://github.com/AphroMad/Blackjack_count "BlackJack")        | Backend       |     |
-| Pierre        | Frontend      |     |
+| Project       | Status        | Type      | Collaborator(s) | Last comment |
+|:-------------:|:-------------:|:---------:|:---------------:|:------------:|       
+| [BlackJack Count](https://github.com/AphroMad/Blackjack_count "BlackJack")                                      | Done   |  Python   | Done   |  Python   | 
+| [Preparation Ebay products](https://github.com/AphroMad/Prepa_photo_produit "Preparation Ebay products")        | Done   |  Python   | Done   |  Python   | 
