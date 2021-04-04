@@ -16,4 +16,6 @@
 | [Magic Button](https://github.com/AphroMad/Magic-Button "Magic Button")                                         | Current   |  React Native App  |  |  |  Android part OK, need to make it OK for iOS   | 
 | [Break the Egg](https://github.com/AphroMad/Break-the-Egg "Break the Egg")                                      | Current   |  React Native App   |  |  |  Know how to save data in the phone memory   | 
 | [Tuner](https://github.com/AphroMad/Tuner "Click me")                                                           | Not started   |  React Native App   | |   |     | 
-| [24 Ads](https://github.com/AphroMad/24Ads "Click me")                                                          | Not started   |  React Native App   |  |  |     | 
+| [24 Ads](https://github.com/AphroMad/24Ads "Click me")                                                          | Not started   |  React Native App   |  |  |     |
+| [NotesApp](https://github.com/Gerem66/NotesApp "Click me")                                                           | Not started   |  React Native App   | The music recognition part | [@Gerem66](https://github.com/Gerem66) |  Need to learn a bit more about how Fast Fourier Transform work   | 
+| [EisenhowApp](https://github.com/Gerem66/EisenhowApp "Click me")                                                          | Not started   |  React Native App   | frontend |  [@Gerem66](https://github.com/Gerem66)  |     | 
