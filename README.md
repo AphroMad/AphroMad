@@ -16,3 +16,7 @@
 - [ ] [24 Ads](https://github.com/AphroMad/24Ads "Click me") Finir le projet 
 
 
+| Project       | Status        | %   | 
+|:-------------:|:-------------:|:---:|       
+| Gerem         | Backend       |     |
+| Pierre        | Frontend      |     |
