@@ -18,5 +18,5 @@
 
 | Project       | Status        | %   | 
 |:-------------:|:-------------:|:---:|       
-| Gerem         | Backend       |     |
+| [BlackJack Count](https://github.com/AphroMad/Blackjack_count "BlackJack")        | Backend       |     |
 | Pierre        | Frontend      |     |
