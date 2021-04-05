@@ -4,7 +4,7 @@
 
 ## My projects : 
 
-| Project       | Status        | Type      | My Role | Collaborator(s) | Last comment |
+| Project       | Status        | Type      | My Role (if blank, mean I was alone) | Collaborator(s) | Last comment |
 |:-------------:|:-------------:|:---------:|:-------:|:---------------:|:------------:|       
 | [BlackJack Count](https://github.com/AphroMad/Blackjack_count "BlackJack")                                      | Done   |  Python   |  |  |     | 
 | [Preparation Ebay products](https://github.com/AphroMad/Prepa_photo_produit "Preparation Ebay products")        | Almost done   |  Python   |  |  |  Clean up the code and comment well   | 
