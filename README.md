@@ -18,4 +18,4 @@
 | [Tuner](https://github.com/AphroMad/Tuner "Click me")                                                           | Not started   |  React Native App   | |   |     | 
 | [24 Ads](https://github.com/AphroMad/24Ads "Click me")                                                          | Not started   |  React Native App   |  |  |     |
 | [NotesApp](https://github.com/Gerem66/NotesApp "Click me")                                                           | Not started   |  React Native App   | The music recognition part | [@Gerem66](https://github.com/Gerem66) |  Need to learn a bit more about how Fast Fourier Transform work   | 
-| [Organizapp](https://github.com/Gerem66/Organizapp "Click me")                                                          | Not started   |  React Native App   | frontend |  [@Gerem66](https://github.com/Gerem66)  |     | 
+| [Organizapp](https://github.com/Gerem66/Organizapp "Click me")                                                          | Current |  React Native App   | frontend |  [@Gerem66](https://github.com/Gerem66)  | Need some iOS fixes | 
