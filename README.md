@@ -6,7 +6,7 @@
 
 | Project       | Status        | Type      | My Role (if blank, I was alone) | Collaborator(s) | Last comment |
 |:-------------:|:-------------:|:---------:|:-------:|:---------------:|:------------:|       
-| [BlackJack Count](https://github.com/AphroMad/Blackjack_count "BlackJack")                                      | Current   |  Java   |  |  |     | 
+| [BlackJack Count](https://github.com/AphroMad/Blackjack_count "BlackJack")                                      | Done   |  Java   |  |  |     | 
 | [Preparation Ebay products](https://github.com/AphroMad/Prepa_photo_produit "Preparation Ebay products")        | Almost done   |  Python   |  |  |  Clean up the code and comment well   | 
 | [Change picture format](https://github.com/AphroMad/JPG-to-PNG "Format")                                        | Done   |  Python   |  |  |     | 
 | [Crop Video](https://github.com/AphroMad/Croping_video "CropVideo")                                             | Almost done   |  Python   |  |  |  Clean up the code and comment well   | 
