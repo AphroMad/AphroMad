@@ -19,3 +19,17 @@
 | [24 Ads](https://github.com/AphroMad/24Ads "Click me")                                                          | Not started   |  React Native App   |  |  |     |
 | [NotesApp](https://github.com/Gerem66/NotesApp "Click me")                                                           | Not started   |  React Native App   | The music recognition part | [@Gerem66](https://github.com/Gerem66) |  Need to learn a bit more about how Fast Fourier Transform work   | 
 | [Organizapp](https://github.com/Gerem66/Organizapp "Click me")                                                          | Current |  React Native App   | frontend |  [@Gerem66](https://github.com/Gerem66)  | Need some iOS fixes | 
+
+
+
+<details>
+<summary>Test</summary>
+<p>
+
+- Install [Projet](https://google.com)
+- Install jdk & jre
+    - ``` jre8-openjdk ```
+    - ``` jdk8-openjdk ``` on arch OR ``` openjdk-8-jdk ``` on debian
+
+</p>
+</details>
