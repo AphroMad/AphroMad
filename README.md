@@ -26,10 +26,10 @@
 <summary>Test</summary>
 <p>
 
-- Install [Projet](https://google.com)
-- Install jdk & jre
-    - ``` jre8-openjdk ```
-    - ``` jdk8-openjdk ``` on arch OR ``` openjdk-8-jdk ``` on debian
+- Here is [Google](https://google.com)
+- Test
+    - ``` test ```
+    - [ ] test
 
 </p>
 </details>
