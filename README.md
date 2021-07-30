@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AphroMad / Pierre Marsaa
+- 👋 Hi, I’m @AphroMad / Pierre Marsaa / @pierre_mrsaaaa
 - 📫 How to reach me : pierre.marsaa@icloud.com
 
 ## My projects : 
