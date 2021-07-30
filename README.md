@@ -46,6 +46,20 @@
 </p>
 </details>
 
+## School projects : 
+
+<details>
+<summary>3rd year</summary>
+<p>
+    
+| Project       | Status        | Type      | My Role (if blank, I was alone) | Collaborator(s) | Last comment |
+|:-------------:|:-------------:|:---------:|:-------:|:---------------:|:------------:|       
+| [BE CHTI](https://github.com/AphroMad/BE-CHTI "BE CHTI")                                      | Finished   |  ASM - C  |  |  |     | 
+| [BE Graphes](https://github.com/AphroMad/BE_Graphes "BE Graphes")                                      | Finished   |  Java  |  |  |     | 
+    
+</p>
+</details>
+
 
 
 
