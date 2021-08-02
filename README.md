@@ -35,8 +35,8 @@
     
 | Project       | Status        | Type      | My Role (if blank, I was alone) | Collaborator(s) | Description |
 |:-------------:|:-------------:|:---------:|:-------:|:---------------:|:------------:|       
-| [Organizapp](https://github.com/Gerem66/Organizapp "Click me")                                                          | Current |  React Native App   | frontend |  [@Gerem66](https://github.com/Gerem66)  | App based on the Eisenhower app | 
-| [Magic Button](https://github.com/AphroMad/MagicButton "Magic Button")                                         | Current   |  React Native App  |  |  |  Application that does the same than this [website](http://make-everything-ok.com/)  | 
+| [Organizapp](https://github.com/Gerem66/Organizapp "Click me")                                                          | Finished |  React Native App   | design, iOS tester, consultant |  [@Gerem66](https://github.com/Gerem66)  | App based on the Eisenhower matrix | 
+| [Magic Button](https://github.com/AphroMad/MagicButton "Magic Button")                                         | Finished   |  React Native App  |  |  |  Application that does the same than this [website](http://make-everything-ok.com/)  | 
 | [Break the Egg](https://github.com/AphroMad/Break-the-Egg "Break the Egg")                                      | Current   |  React Native App   |  |  |  Touch 1.000.000. times the screen and something will happen  | 
 | [Tuner](https://github.com/AphroMad/Tuner "Click me")                                                           | Not started   |  React Native App   | |   |  A guitar / ukulele tuner   | 
 | [24 Ads](https://github.com/AphroMad/24Ads "Click me")                                                          | Not started   |  React Native App   |  |  |  An app with only ads   |
