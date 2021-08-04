@@ -39,7 +39,6 @@
 | [Magic Button](https://github.com/AphroMad/MagicButton "Magic Button")                                         | Finished   |  React Native App  |  |  |  Application that does the same than this [website](http://make-everything-ok.com/)  | 
 | [Break the Egg](https://github.com/AphroMad/Break-the-Egg "Break the Egg")                                      | Current   |  React Native App   |  |  |  Touch 1.000.000. times the screen and something will happen  | 
 | [Tuner](https://github.com/AphroMad/Tuner "Click me")                                                           | Not started   |  React Native App   | |   |  A guitar / ukulele tuner   | 
-| [24 Ads](https://github.com/AphroMad/24Ads "Click me")                                                          | Not started   |  React Native App   |  |  |  An app with only ads   |
 | [NotesApp](https://github.com/Gerem66/NotesApp "Click me")                                                           | Not started   |  React Native App   | Determine the note played and put it on a tab | 
     
 </p>
