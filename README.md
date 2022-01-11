@@ -9,7 +9,7 @@
 | Project       | Status        | Type      | My Role (if blank, I was alone) | Collaborator(s) | Description |
 |:-------------:|:-------------:|:---------:|:-------:|:---------------:|:------------:|       
 | [BlackJack Count](https://github.com/AphroMad/Blackjack_count "Click me")                                      | Finished   |  Java   |  |  | An application that helps you count cards, calculate the probabilities that a card will appear, determine the best move to make, etc. | 
-| [Poker Probability](https://github.com/AphroMad/Poker-probability "Click me")                                      | Finished   |  Java   |  |  | A software that allows you to evaluate your probablity of winning a poker hand depending of your cards, cards on the table, and the possible cards of opponents | 
+| [Poker Probability](https://github.com/AphroMad/Poker-probability "Click me")                                      | Current   |  Java   |  |  | A software that allows you to evaluate your probablity of winning a poker hand depending of your cards, cards on the table, and the possible cards of opponents | 
     
 </p>
 </details>
@@ -36,10 +36,10 @@
     
 | Project       | Status        | Type      | My Role (if blank, I was alone) | Collaborator(s) | Description |
 |:-------------:|:-------------:|:---------:|:-------:|:---------------:|:------------:|       
-| [GameLife](https://github.com/Gerem66/GameLife "Click me")                                                          | Finished |  React Native App  | project management, UI/UX, comm |  [@Gerem66](https://github.com/Gerem66)  | App that encourage you to do activities by transforming you in a video game character | 
+| [GameLife](https://github.com/Gerem66/GameLife "Click me")                                                          | Current |  React Native App  | project management, UI/UX, comm |  [@Gerem66](https://github.com/Gerem66)  | App that encourage you to do activities by transforming you in a video game character | 
 | [Organizapp](https://github.com/Gerem66/Organizapp "Click me")                                                          | Finished |  React Native App   | design, iOS tester, consultant |  [@Gerem66](https://github.com/Gerem66)  | App based on the Eisenhower matrix | 
 | [Magic Button](https://github.com/AphroMad/MagicButton "Magic Button")                                         | Finished   |  React Native App  |  |  |  Application that does the same than this [website](http://make-everything-ok.com/)  | 
-| [Break the Egg](https://github.com/AphroMad/Break-the-Egg "Break the Egg")                                      | Current   |  React Native App   |  |  |  Touch 1.000.000. times the screen and something will happen  | 
+| [Break the Egg](https://github.com/AphroMad/Break-the-Egg "Break the Egg")                                      | not started   |  React Native App   |  |  |  Touch 1.000.000. times the screen and something will happen  | 
 | [NotesApp](https://github.com/Gerem66/NotesApp "Click me")                                                           | need to learn more about AI   |  React Native App   | Determine the note/chord played and put it on a tab | 
     
 </p>
