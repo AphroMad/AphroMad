@@ -48,12 +48,23 @@
 ## School projects : 
 
 <details>
-<summary>3rd year</summary>
+<summary>4th year</summary>
 <p>
     
 | Project       | Status        | Type      | My Role (if blank, I was alone) | Collaborator(s) | Description |
 |:-------------:|:-------------:|:---------:|:-------:|:---------------:|:------------:| 
 | [Clavardage](https://github.com/Fomys/Clavardage "Click me") | Current |  Java | Frontend developper | [@Fomys](https://github.com/Fomys) | Software that allows you to send message to people in the same network than you | 
+| [Voilier](https://github.com/AphroMad/Voilier4A "Click me") | Finished | C |  | [@Fomys](https://github.com/Fomys) | Trying to automate the operation of a miniature sailboat | 
+    
+</p>
+</details>
+
+<details>
+<summary>3rd year</summary>
+<p>
+    
+| Project       | Status        | Type      | My Role (if blank, I was alone) | Collaborator(s) | Description |
+|:-------------:|:-------------:|:---------:|:-------:|:---------------:|:------------:| 
 | [BE CHTI](https://github.com/AphroMad/BE-CHTI "BE CHTI")                                      | Finished   |  ASM - C  |  |  | Some filtering, ASM, C, Fourier transform and laser guns | 
 | [BE Graphes](https://github.com/AphroMad/BE_Graphes "BE Graphes")                                      | Finished   |  Java  |  |  | Determine the fastest or shortest path with Dijkstra and Bellmann | 
     
