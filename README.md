@@ -57,7 +57,7 @@
 | [Supervised learning](https://github.com/arc-hugo/supervised_learning_labs "Click me") | Finished | Python | Developer | [@arc-hugo](https://github.com/arc-hugo) | Learning how to play with decision trees, perceptron and multi-layer perceptron |
 | [Projet Système Informatique](https://github.com/arc-hugo/fascc "Click me") | Finished | Lex, Yacc, C, VHDL | Developer | [@arc-hugo](https://github.com/arc-hugo) | Creation of a compiler that translates a source language into a target language and then creates a microprocessor that can run the code  |
 | [Clavardage](https://github.com/Fomys/Clavardage "Click me") | Finished |  Java | Frontend developper | [@Fomys](https://github.com/Fomys) | Software that allows you to send message to people in the same network than you | 
-| [Voilier](https://github.com/AphroMad/Voilier4A "Click me") | Finished | C |  | [@Fomys](https://github.com/Fomys) | Trying to automate the operation of a miniature sailboat | 
+| [Voilier](https://github.com/AphroMad/Voilier4A "Click me") | Finished | C | Developer | [@Fomys](https://github.com/Fomys) | Trying to automate the operation of a miniature sailboat | 
     
 </p>
 </details>
