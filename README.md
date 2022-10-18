@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @AphroMad / Pierre Marsaa / @pierre_mrsaaaa
 - 📫 How to reach me : pierre.marsaa@icloud.com
+- Everything about me : https://oxyfoo.com/Pierre/
 
+<details>
+<summary>Projects</summary>
+<p>
 ## My projects : 
 <details>
 <summary>Java Project</summary>
@@ -90,3 +94,7 @@
 
 </p>
 </details>
+
+</p>
+</details>
+
