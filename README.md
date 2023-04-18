@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AphroMad / Pierre Marsaa / @pierre_mrsaaaa
 - 📫 How to reach me : pierre.marsaa@icloud.com
-- Everything about me : https://oxyfoo.com/pierre/
+- 🙋‍♂️ My projects explained : https://oxyfoo.com/pierre/
